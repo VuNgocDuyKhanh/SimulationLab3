@@ -1,0 +1,11 @@
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Visual Studio\Имитационное моделирование\Lab3\Lab3\obj\Debug\Lab3.pdb
